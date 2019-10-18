@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 2d9adb9a7bd1a6148ad6c377d451a905
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: Body2
+    100004: Body_2
+    100006: Body_3
+    100008: Body_4
+    100010: Head
+    100012: Jaw_Bot
+    100014: Jaw_Top
+    100016: L_Fin
+    100018: L_Fin_2
+    100020: L_Fin_END
+    100022: left_Fin
+    100024: model
+    100026: //RootNode
+    100028: pCube52
+    100030: pSphere4
+    100032: R_Fin
+    100034: R_Fin_2
+    100036: R_Fin_END
+    100038: Right_Fin
+    100040: Tail
+    100042: Top_Fin
+    400000: body
+    400002: Body2
+    400004: Body_2
+    400006: Body_3
+    400008: Body_4
+    400010: Head
+    400012: Jaw_Bot
+    400014: Jaw_Top
+    400016: L_Fin
+    400018: L_Fin_2
+    400020: L_Fin_END
+    400022: left_Fin
+    400024: model
+    400026: //RootNode
+    400028: pCube52
+    400030: pSphere4
+    400032: R_Fin
+    400034: R_Fin_2
+    400036: R_Fin_END
+    400038: Right_Fin
+    400040: Tail
+    400042: Top_Fin
+    2100000: lambert3SG1
+    2100002: lambert4SG1
+    2100004: lambert2SG1
+    2100006: lambert5SG1
+    4300000: Body2
+    4300002: left_Fin
+    4300004: Right_Fin
+    4300006: pCube52
+    4300008: pSphere4
+    7400000: Chomp
+    9500000: //RootNode
+    13700000: Body2
+    13700002: left_Fin
+    13700004: pCube52
+    13700006: pSphere4
+    13700008: Right_Fin
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2SG1
+    second: {fileID: 2100000, guid: cd1d6156cab84b54eaa6f62e3787dccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3SG1
+    second: {fileID: 2100000, guid: d7f568650f6656949ba26d15845dd5f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4SG1
+    second: {fileID: 2100000, guid: 37ee496de553fa446b9e637c02d13000, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5SG1
+    second: {fileID: 2100000, guid: e325b92f83485d2418c88201e9c6af91, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Chomp
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

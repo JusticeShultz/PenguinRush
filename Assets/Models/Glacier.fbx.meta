@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: d1b40e99e25f0ba4fbfb145693b9d7f4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: FirstMiddleGlacier
+    100002: FirstMiddleGlacier1
+    100004: FirstMiddleGlacier2
+    100006: FirstMiddleGlacier3
+    100008: FirstMiddleGlacier4
+    100010: FirstMiddleGlacier5
+    100012: FirstMiddleRing1
+    100014: //RootNode
+    100016: InnerGlacier
+    100018: InnerGlacier1
+    100020: InnerRing
+    100022: OutermostGlacier
+    100024: OutermostGlacier1
+    100026: OutermostGlacier10
+    100028: OutermostGlacier11
+    100030: OutermostGlacier12
+    100032: OutermostGlacier2
+    100034: OutermostGlacier3
+    100036: OutermostGlacier4
+    100038: OutermostGlacier5
+    100040: OutermostGlacier7
+    100042: OutermostGlacier8
+    100044: OutermostGlacier9
+    100046: OutermostRing
+    100048: SecondMiddleGlacier
+    100050: SecondMiddleGlacier1
+    100052: SecondMiddleGlacier2
+    100054: SecondMiddleRing
+    400000: FirstMiddleGlacier
+    400002: FirstMiddleGlacier1
+    400004: FirstMiddleGlacier2
+    400006: FirstMiddleGlacier3
+    400008: FirstMiddleGlacier4
+    400010: FirstMiddleGlacier5
+    400012: FirstMiddleRing1
+    400014: //RootNode
+    400016: InnerGlacier
+    400018: InnerGlacier1
+    400020: InnerRing
+    400022: OutermostGlacier
+    400024: OutermostGlacier1
+    400026: OutermostGlacier10
+    400028: OutermostGlacier11
+    400030: OutermostGlacier12
+    400032: OutermostGlacier2
+    400034: OutermostGlacier3
+    400036: OutermostGlacier4
+    400038: OutermostGlacier5
+    400040: OutermostGlacier7
+    400042: OutermostGlacier8
+    400044: OutermostGlacier9
+    400046: OutermostRing
+    400048: SecondMiddleGlacier
+    400050: SecondMiddleGlacier1
+    400052: SecondMiddleGlacier2
+    400054: SecondMiddleRing
+    2100000: Glacier
+    2100002: SnowTop
+    2100004: Default_Material
+    2300000: FirstMiddleGlacier
+    2300002: FirstMiddleGlacier1
+    2300004: FirstMiddleGlacier2
+    2300006: FirstMiddleGlacier3
+    2300008: FirstMiddleGlacier4
+    2300010: FirstMiddleGlacier5
+    2300012: InnerGlacier
+    2300014: InnerGlacier1
+    2300016: OutermostGlacier
+    2300018: OutermostGlacier1
+    2300020: OutermostGlacier10
+    2300022: OutermostGlacier11
+    2300024: OutermostGlacier12
+    2300026: OutermostGlacier2
+    2300028: OutermostGlacier3
+    2300030: OutermostGlacier4
+    2300032: OutermostGlacier5
+    2300034: OutermostGlacier7
+    2300036: OutermostGlacier8
+    2300038: OutermostGlacier9
+    2300040: SecondMiddleGlacier
+    2300042: SecondMiddleGlacier1
+    2300044: SecondMiddleGlacier2
+    3300000: FirstMiddleGlacier
+    3300002: FirstMiddleGlacier1
+    3300004: FirstMiddleGlacier2
+    3300006: FirstMiddleGlacier3
+    3300008: FirstMiddleGlacier4
+    3300010: FirstMiddleGlacier5
+    3300012: InnerGlacier
+    3300014: InnerGlacier1
+    3300016: OutermostGlacier
+    3300018: OutermostGlacier1
+    3300020: OutermostGlacier10
+    3300022: OutermostGlacier11
+    3300024: OutermostGlacier12
+    3300026: OutermostGlacier2
+    3300028: OutermostGlacier3
+    3300030: OutermostGlacier4
+    3300032: OutermostGlacier5
+    3300034: OutermostGlacier7
+    3300036: OutermostGlacier8
+    3300038: OutermostGlacier9
+    3300040: SecondMiddleGlacier
+    3300042: SecondMiddleGlacier1
+    3300044: SecondMiddleGlacier2
+    4300000: OutermostGlacier
+    4300002: OutermostGlacier1
+    4300004: OutermostGlacier2
+    4300006: OutermostGlacier3
+    4300008: OutermostGlacier4
+    4300010: OutermostGlacier5
+    4300012: OutermostGlacier7
+    4300014: OutermostGlacier8
+    4300016: OutermostGlacier9
+    4300018: OutermostGlacier10
+    4300020: OutermostGlacier11
+    4300022: OutermostGlacier12
+    4300024: FirstMiddleGlacier
+    4300026: FirstMiddleGlacier1
+    4300028: FirstMiddleGlacier2
+    4300030: FirstMiddleGlacier3
+    4300032: FirstMiddleGlacier4
+    4300034: FirstMiddleGlacier5
+    4300036: SecondMiddleGlacier
+    4300038: SecondMiddleGlacier1
+    4300040: SecondMiddleGlacier2
+    4300042: InnerGlacier
+    4300044: InnerGlacier1
+    7400000: Shake
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 10b29f6359e53da4fb7c8f33b66b737c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glacier
+    second: {fileID: 2100000, guid: 10b29f6359e53da4fb7c8f33b66b737c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SnowTop
+    second: {fileID: 2100000, guid: 2e1275d6553444646936c32427998c8f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Shake
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
